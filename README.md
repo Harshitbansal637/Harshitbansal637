@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshitbansal637
+- 👋 Hi, I’m @Harshitbansal
 - 👀 I’m interested in Exploring new Technologies 
 - 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on Open Sources Projects around MERN Stack Ecosystem. 
